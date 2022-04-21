@@ -1,9 +1,9 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Nijat+👋&center=true&width=500&height=50"></a>
- 
+ <p align='center'>
+</p>
  
 <h1> Welcome To My < Code/ > World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+
   
  
 
