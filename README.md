@@ -4,7 +4,7 @@
   
   <h3> Hi there, I'm Nijat </h3>
   
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There,+I'm+Nijat&center=false&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There,+I'm+Nijat+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>&center=false&width=500&height=50"></a>
 
 <!--
 **nicatmardanov/nicatmardanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
