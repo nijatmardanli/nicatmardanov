@@ -2,8 +2,7 @@
 <p align='center'>
 </p>
   
-<div size='20px' style='font-size: 24px'> Hi there, I'm Nijat 
-</div>
+  <h3> Hi there, I'm Nijat </h3>
 
 <!--
 **nicatmardanov/nicatmardanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
