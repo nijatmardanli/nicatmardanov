@@ -1,10 +1,12 @@
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Nijat+👋&center=true&width=500&height=50"></a>
+ 
+ 
 <h1> Welcome To My < Code/ > World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
   
-  <h3> Hi there, I'm Nijat </h3>
-  
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Nijat+👋&center=true&width=500&height=50"></a>
+ 
+
 
 <!--
 **nicatmardanov/nicatmardanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
