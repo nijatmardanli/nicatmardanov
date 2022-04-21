@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
   
-<div size='20px'> Hi there, I'm Nijat 
+<div size='20px' style='font-size: 18px'> Hi there, I'm Nijat 
 </div>
 
 <!--
